@@ -1,0 +1,3 @@
+The user is prompted to press the generate password button on the moe page. An alert pops up on the screen telling the user to enter a number from 8 - 128 in order for their password to generate. Then a series of alerts ask the user to select whether they want uppercase/lowercase letters included and finally one for special characters. The password will generate with the desired parameters and the user can copy & paste the password. Here below, I have a link to a screenshot of the home page.
+
+https://gyazo.com/d2b0a211d4917a433a99eb454ba4a4e7
